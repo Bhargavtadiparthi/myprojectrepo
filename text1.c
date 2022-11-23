@@ -6,4 +6,5 @@ int main()
   scanf(""); 
    mod by dev1
    return 0;
+   return();
 }
