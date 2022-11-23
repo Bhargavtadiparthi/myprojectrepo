@@ -5,4 +5,5 @@ int main()
   printf("enter the value of n");
   scanf(""); 
    mod by dev1
+   return 0;
 }
