@@ -3,5 +3,6 @@ int main()
 {
   int i=n;
   printf("enter the value of n");
-  scanf("");
+  scanf(""); 
+   mod by dev1
 }
