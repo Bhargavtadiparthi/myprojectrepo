@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  int i=n;
+  int i=n,char c=10,flout f=19.00;
   printf("enter the value of n");
   scanf(""); 
    mod by dev1
